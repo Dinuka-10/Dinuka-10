@@ -10,7 +10,6 @@
 - Python
 - Java
 - HTML, CSS
-- Flask and Django
 - Machine Learning
 - Deep Learning (Beginner)
 
