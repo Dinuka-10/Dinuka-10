@@ -9,7 +9,8 @@
 ### 🛠️ Skills
 - Python
 - Java
-- HTML, CSS
+- HTML
+- CSS
 - Machine Learning
 - Deep Learning (Beginner)
 
